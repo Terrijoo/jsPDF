@@ -31,7 +31,7 @@
     "canvg": "^3.0.6",
     "core-js": "^3.6.0",
     "dompurify": "^2.2.0",
-    "html2canvas": "^1.0.0-rc.5"
+    "html2canvas": "github:Terrijoo/html2canvas#fb6843ae5f24f08b5c60c6c58aa0d8238938dfe7"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
